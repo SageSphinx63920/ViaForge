@@ -7,7 +7,6 @@
   "client": [
     "MixinGuiConnecting_1",
     "MixinGuiMainMenu",
-    "MixinGuiMultiplayer",
     "MixinGuiOverlayDebug",
     "MixinGuiScreenAddServer",
     "MixinGuiScreenServerList",
